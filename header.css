@@ -1,0 +1,21 @@
+.home {
+  color: white;
+ 
+  margin-right: 20px;
+  cursor: pointer;
+ 
+}
+
+.left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex: 1 1 0;
+  
+}
+ h1 {
+  margin-top: 0;
+  color: white;
+}
+  
+ 

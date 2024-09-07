@@ -1,0 +1,43 @@
+.lorem {color: white;
+  margin-bottom: 40px;
+}
+.today {
+  padding: 12px;
+  background-color: rgb(199, 45, 199);
+  border: none;
+  cursor: pointer;
+}
+.studio1 {margin-top: 150px;}
+
+.studio2 {
+  height: 350px;
+  width: 350px;
+  background-color: white;
+  text-align: center;
+  padding-top: 60px;
+  margin-top: 60px;
+  margin-left: 65px;
+}
+.text {
+  margin-bottom: 12px;
+ 
+}
+#name, #email, #website {
+  padding: 15px 100px 15px 10px;
+  background-color: rgb(240, 240, 240);
+  border: none;
+}
+::placeholder {color: black;}
+
+#send {
+  background-color: rgb(199, 45, 199);
+  border: none;
+  padding: 15px 120px;
+  cursor: pointer;
+  color: white
+}
+  .container2 {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 2fr;
+  }
